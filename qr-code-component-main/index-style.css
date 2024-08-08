@@ -6,9 +6,10 @@
     box-sizing: border-box;
     background-color: white;
     margin: 100px auto;
+    width: 14%;
     min-width: 202px;
     max-width: 202px;
-    height: 335px;  
+    height: 330px;  
     border-radius: 8px;
     padding: 11px;
 }
